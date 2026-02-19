@@ -1,0 +1,1 @@
+php -S localhost: 8000 -d error_reporting-E_ALL

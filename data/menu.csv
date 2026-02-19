@@ -1,0 +1,36 @@
+Section,Nom,Ingrédients,Prix
+PIZZA,,,
+PIZZA,Margherita Classica,"Sauce tomate, mozzarella, basilic frais",7
+PIZZA,Quatre Fromages,"Mozzarella, gorgonzola, emmental, parmesan",8.5
+PIZZA,Napolitaine,"Sauce tomate, mozzarella, anchois, câpres, olives",9
+PIZZA,Végétarienne,"Tomates fraîches, courgettes, poivrons, olives, origan",9
+PIZZA,Reine,"Sauce tomate, mozzarella, jambon, champignons",9.5
+PIZZA,Calzone,"Sauce tomate, mozzarella, jambon, œuf",10
+PIZZA,Diavola,"Sauce tomate, mozzarella, salami piquant, piment",10
+PIZZA,Poulet BBQ,"Sauce barbecue, mozzarella, poulet grillé, oignons",10.5
+PIZZA,Fruits de mer,"Sauce tomate, mozzarella, crevettes, calamars, moules",11
+PIZZA,Bolognaise,"Sauce tomate, mozzarella, viande hachée, oignons",10
+
+DESSERT,,,
+DESSERT,Café gourmand,"Café ou thé, mini gaufre, moelleux au chocolat",5
+DESSERT,Tiramisu maison,"Mascarpone, biscuits, café, cacao",4.5
+DESSERT,Moelleux au chocolat,"Chocolat noir, cœur fondant",4
+DESSERT,Cheesecake,"Fromage frais, biscuit, coulis fruits rouges",4.5
+DESSERT,Crème brûlée,"Crème vanille, sucre caramélisé",4
+DESSERT,Gaufre sucre,"Gaufre chaude, sucre glace",3.5
+DESSERT,Gaufre chocolat,"Gaufre chaude, sauce chocolat",4
+DESSERT,Tarte aux pommes,"Pommes caramélisées, pâte sablée",4
+DESSERT,Salade de fruits,"Fruits frais de saison",3.5
+DESSERT,Brownie,"Chocolat, noix, servi tiède",4
+
+GLACE,,,
+GLACE,Colonel italien,"Citron (3 boules), Grappa Piave (3cl)",3.2
+GLACE,Coupe vanille,"Vanille (3 boules), chantilly",3
+GLACE,Coupe chocolat,"Chocolat (3 boules), sauce chocolat",3
+GLACE,Coupe fraise,"Fraise (3 boules), coulis fraise",3
+GLACE,Coupe pistache,"Pistache (3 boules), éclats d’amandes",3.5
+GLACE,Dame blanche,"Vanille, sauce chocolat, chantilly",4
+GLACE,Banana split,"Banane, vanille, chocolat, fraise, chantilly",4.5
+GLACE,Coupe exotique,"Mangue, coco, ananas",4
+GLACE,Sorbet citron,"Citron (3 boules)",3
+GLACE,Coupe mixte,"Vanille, chocolat, fraise",3.5

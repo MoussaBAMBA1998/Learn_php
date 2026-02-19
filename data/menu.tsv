@@ -1,0 +1,38 @@
+PIZZA		
+Nom	Ingrédients	Prix
+Margherita Classica	Sauce tomate, mozzarella, basilic frais	7
+Quatre Fromages	Mozzarella, gorgonzola, emmental, parmesan	8.5
+Napolitaine	Sauce tomate, mozzarella, anchois, câpres, olives	9
+Végétarienne	Tomates fraîches, courgettes, poivrons, olives, origan	9
+Reine	Sauce tomate, mozzarella, jambon, champignons	9.5
+Calzone	Sauce tomate, mozzarella, jambon, œuf	10
+Diavola	Sauce tomate, mozzarella, salami piquant, piment	10
+Poulet BBQ	Sauce barbecue, mozzarella, poulet grillé, oignons	10.5
+Fruits de mer	Sauce tomate, mozzarella, crevettes, calamars, moules	11
+Bolognaise	Sauce tomate, mozzarella, viande hachée, oignons	10
+		
+DESSERT		
+Nom	Ingrédients	Prix
+Café gourmand	Café ou thé, mini gaufre, moelleux au chocolat	5
+Tiramisu maison	Mascarpone, biscuits, café, cacao	4.5
+Moelleux au chocolat	Chocolat noir, cœur fondant	4
+Cheesecake	Fromage frais, biscuit, coulis fruits rouges	4.5
+Crème brûlée	Crème vanille, sucre caramélisé	4
+Gaufre sucre	Gaufre chaude, sucre glace	3.5
+Gaufre chocolat	Gaufre chaude, sauce chocolat	4
+Tarte aux pommes	Pommes caramélisées, pâte sablée	4
+Salade de fruits	Fruits frais de saison	3.5
+Brownie	Chocolat, noix, servi tiède	4
+		
+GLACE		
+Nom	Ingrédients	Prix
+Colonel italien	Citron (3 boules), Grappa Piave (3cl)	3.2
+Coupe vanille	Vanille (3 boules), chantilly	3
+Coupe chocolat	Chocolat (3 boules), sauce chocolat	3
+Coupe fraise	Fraise (3 boules), coulis fraise	3
+Coupe pistache	Pistache (3 boules), éclats d’amandes	3.5
+Dame blanche	Vanille, sauce chocolat, chantilly	4
+Banana split	Banane, vanille, chocolat, fraise, chantilly	4.5
+Coupe exotique	Mangue, coco, ananas	4
+Sorbet citron	Citron (3 boules)	3
+Coupe mixte	Vanille, chocolat, fraise	3.5
